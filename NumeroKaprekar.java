@@ -10,8 +10,6 @@ public class NumeroKaprekar {
      */
     private NumeroKaprekar() {
     }
-    //Numeros kaprekar: enteros positivos no negativos
-    //Su cuadrado se separa en dos sumandos que dan el dígito original
 
     /**
      * Comprueba si un número cumple las condiciones de ser Kaprekar
