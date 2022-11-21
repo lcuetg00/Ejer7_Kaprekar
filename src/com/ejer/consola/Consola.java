@@ -1,6 +1,9 @@
+package com.ejer.consola;
+
+import com.ejer.utileria.NumeroKaprekar;
+
 import java.math.BigInteger;
 import java.security.InvalidParameterException;
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
